@@ -481,6 +481,12 @@ section {
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
+.skill {
+  font-style: bold;
+  text-align: center;
+  font-size: 1.8em;
+}
+
 .skills .progress {
   height: 60px;
   display: block;
