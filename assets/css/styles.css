@@ -478,6 +478,32 @@ section {
   font-size: 14px;
 }
 
+/* Projects: logo above title, black title, small description */
+.facts .project-logo {
+  display: block;
+  margin: 0 auto 12px auto;
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+}
+
+.facts .project-title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.facts .project-title a {
+  color: #000; /* titre en noir */
+  text-decoration: none;
+}
+
+.facts .project-desc {
+  margin-top: 8px;
+  color: #6b6f73;
+  font-size: 14px;
+}
+
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
