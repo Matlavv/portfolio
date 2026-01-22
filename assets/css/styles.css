@@ -498,14 +498,14 @@ section {
 }
 
 .facts .project-desc {
-    margin-top: 8px;
+    margin-top: 15px;
     color: #6b6f73;
     font-size: 14px;
 }
 
-/*--------------------------------------------------------------
-# Skills
---------------------------------------------------------------*/
+.facts .section-title {
+    padding-bottom: 15px;
+}
 .skill {
     font-style: bold;
     text-align: center;
